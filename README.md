@@ -1,7 +1,37 @@
-# spotify-clone
- 
-This Spotify clone is a static replica of the popular music streaming platform, built using only HTML and CSS. The project focuses on replicating Spotify’s sleek, modern interface with a clean and minimalist design. It includes a sidebar with essential navigation links like Home, Search, and Your Library, all styled with CSS to maintain a polished, user-friendly appearance. The top search bar allows users to search for music, though without functional capabilities, as this is a static project.
+# Spotify Web Player Clone
 
-The main content area showcases sections such as Featured Playlists, Popular Albums, and Top Tracks, mimicking the layout of the Spotify app. Each section is neatly organized in rows and columns, with hover effects to enhance the user experience.
+A simple Spotify-inspired web player UI built with HTML and CSS.
 
-Fully responsive, the design adjusts seamlessly across various screen sizes, ensuring an optimal viewing experience on desktops, tablets, and smartphones. This project demonstrates how HTML and CSS can be used to create a visually appealing static web design.
+## Features
+
+- Sidebar navigation (Home, Search, Your Library)
+- Responsive card layouts for playlists and charts
+- Sticky navigation bar
+- Music player controls (UI only)
+- Modern, clean design
+
+
+
+## Getting Started
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/yourusername/spotify-web-player-clone.git
+   ```
+2. **Open `index.html` in your browser.**
+
+No build steps or dependencies required.
+
+## Folder Structure
+
+- `index.html` – Main HTML file
+- `style.css` – Stylesheet
+- Image assets (`.jpeg`, `.png`) for UI
+
+## Author
+
+**Aman Verma**
+
+---
+
+
